@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/10thMachine/aws-docker-test/issues"
   },
-  "homepage": "https://github.com/10thMachine/aws-docker-test#readme"
+  "homepage": "https://github.com/10thMachine/aws-docker-test#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
