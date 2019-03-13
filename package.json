@@ -1,0 +1,20 @@
+{
+  "name": "aws-docker-test",
+  "version": "1.0.0",
+  "description": "This is a test repository for aws and docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10thMachine/aws-docker-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/10thMachine/aws-docker-test/issues"
+  },
+  "homepage": "https://github.com/10thMachine/aws-docker-test#readme"
+}
